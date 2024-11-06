@@ -6,5 +6,5 @@
 
 - Un dispositif de mesure de la qualité de l'eau d'un lac ou d'une rivière avec géolocalisation connecté à internet (Cloud)
 
-# Les problèmes rencontrés
+## Les problèmes rencontrés
 - GPS***
