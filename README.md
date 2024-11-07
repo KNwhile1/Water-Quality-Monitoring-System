@@ -39,3 +39,6 @@ Ce projet vise à révolutionner la manière dont nous mesurons et suivons la qu
 
 ## Les problèmes rencontrés
 - Voir (liste_des_problèmes.txt)
+
+## Autres
+https://www.makerfabs.com/maduino-zero-lorawan.html
