@@ -27,6 +27,7 @@ Le dispositif requis est un système de mesure de la qualité de l'eau capable d
 - Maduino Zero LoRaWAN
 - Capteur de température hydrofuge 1-WIRE (5V)
 - Capteur de concentration d’oxygène hydrofuge (5v)
+- Une resistance de 1***Kohm 1605          *
 
 ## Alimentation
 - 2 piles AA de 1.5V chacune.
@@ -37,7 +38,7 @@ Le dispositif requis est un système de mesure de la qualité de l'eau capable d
 Ce projet vise à révolutionner la manière dont nous mesurons et suivons la qualité de l'eau des lacs et des rivières. Grâce à ce dispositif, nous pourrons fournir des données précises, instantanées et accessibles à toute notre équipe, tout en assurant un suivi environnemental amélioré.
 
 ## Les problèmes rencontrés
-Voir (liste_des_problèmes.txt)
+**Voir (liste_des_problèmes.txt)**
 
 ## Autres
 https://www.makerfabs.com/maduino-zero-lorawan.html
