@@ -28,17 +28,16 @@ Fonctions principales
 - Capteur de température hydrofuge 1-wire (5V)
 - Capteur de concentration d’oxygène (5v)
 
-
 ## Alimentation
-Utilisation de 2 piles AA de 1.5V chacune.
-Un support pour 2 piles AA.
-Un interrupteur marche/arrêt pour contrôler l’alimentation.
+- 2 piles AA de 1.5V chacune.
+- Un support pour 2 piles AA.
+- Un interrupteur marche/arrêt pour contrôler l’alimentation.
 
 ## Conclusion
 Ce projet vise à révolutionner la manière dont nous mesurons et suivons la qualité de l'eau des lacs et des rivières. Grâce à ce dispositif, nous pourrons fournir des données précises, instantanées et accessibles à toute notre équipe, tout en assurant un suivi environnemental amélioré.
 
 ## Les problèmes rencontrés
-- Voir (liste_des_problèmes.txt)
+Voir (liste_des_problèmes.txt)
 
 ## Autres
 https://www.makerfabs.com/maduino-zero-lorawan.html
