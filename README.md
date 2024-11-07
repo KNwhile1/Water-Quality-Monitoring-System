@@ -9,19 +9,19 @@ Afin de concrétiser cette vision et à la suite de notre engagement envers la s
 Le dispositif requis est un système de mesure de la qualité de l'eau capable de collecter et de transmettre les données concernant la concentration de certains gaz (tels que l'oxygène) et la température de l'eau. Il doit inclure la géolocalisation, le niveau de batterie et l'envoi des données à une plateforme cloud via le réseau LoRaWAN. Les données devront être affichées sur une carte Google Maps.
 
 ## Objectifs
-- Concevoir un dispositif capable de mesurer la qualité de l'eau.
-- Transmettre les données recueillies à une plateforme cloud accessible aux employés.
-- Afficher les données de qualité de l'eau sur une carte Google Maps en temps réel.
+- Concevoir un dispositif capable de mesurer la qualité de l'eau
+- Transmettre les données recueillies à une plateforme cloud accessible aux employés
+- Afficher les données de qualité de l'eau sur une carte Google Maps en temps réel
 - Fonctions principales
 
 ## Le dispositif peux
-- Mesurer la concentration d’oxygène (O2) dans l’eau.
-- Mesurer la température de l'eau.
-- Fournir des données de géolocalisation (latitude et longitude), ainsi que la date et l’heure de la mesure.          *
-- Indiquer la tension et le niveau de la batterie.
-- Envoyer les données recueillies via le réseau LoRaWAN à une plateforme cloud (ThingsBoard).
-- Mettre à jour les données toutes les 5 minutes.
-- Afficher les données collectées sur une carte Google Maps intégrée à la plateforme ThingsBoard.
+- Mesurer la concentration d’oxygène (O2) dans l’eau
+- Mesurer la température de l'eau
+- Fournir des données de géolocalisation (latitude et longitude), ainsi que la date et l’heure de la mesure          *
+- Indiquer la tension et le niveau de la batterie
+- Envoyer les données recueillies via le réseau LoRaWAN à une plateforme cloud (ThingsBoard)
+- Mettre à jour les données toutes les 5 minutes
+- Afficher les données collectées sur une carte Google Maps intégrée à la plateforme ThingsBoard
 
 ## Composants nécessaires
 - Maduino Zero LoRaWAN
@@ -30,16 +30,16 @@ Le dispositif requis est un système de mesure de la qualité de l'eau capable d
 - Une resistance de 1***Kohm 1605          *
 
 ## Alimentation
-- 2 piles AA de 1.5V chacune.
-- Un support pour 2 piles AA.
-- Un interrupteur marche/arrêt pour contrôler l’alimentation.
+- 2 piles AA de 1.5V chacune
+- Un support pour 2 piles AA
+- Un interrupteur marche/arrêt pour contrôler l’alimentation
 
 ## Conclusion
 Ce projet vise à révolutionner la manière dont nous mesurons et suivons la qualité de l'eau des lacs et des rivières. Grâce à ce dispositif, nous pourrons fournir des données précises, instantanées et accessibles à toute notre équipe, tout en assurant un suivi environnemental amélioré.
 
-## Les problèmes rencontrés
-**Voir (liste_des_problèmes.txt)**
+## Problèmes rencontrés
+Voir (liste_des_problèmes.txt)
 
 ## Autres
 https://www.makerfabs.com/maduino-zero-lorawan.html
-***Cayenne LPP***
+Cayenne LPP *
