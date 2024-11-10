@@ -31,21 +31,49 @@ Le dispositif requis est un système de mesure de la qualité de l'eau capable d
 
 ## Composants nécessaires
 - Maduino Zero LoRaWAN
-- Capteur de température hydrofuge 1-WIRE (5V)
-- Capteur de concentration d’oxygène hydrofuge (5v)
-- Une resistance de 1***Kohm 1605          *
-
-## Alimentation
+![Description of the image](download3.png)
+- Capteur de température 1-WIRE hydrofuge (5V)
+![Description of the image](download4.png)
+- Capteur de concentration d’oxygène hydrofuge (5V)
+![Description of the image](download5.png)
+- Une résistance de 1K Ohm 1605          *
+![Description of the image](download6.png)
 - 2 piles AA de 1.5V chacune
+![Description of the image](download7.png)
 - Un support pour 2 piles AA
+![Description of the image](download8.png)
 - Un interrupteur marche/arrêt pour contrôler l’alimentation
+![Description of the image](download9.png)
+
+*Voir la catégorie **Références** pour les liens d'achat*
 
 ## Conclusion
 Ce projet vise à révolutionner la manière dont nous mesurons et suivons la qualité de l'eau des lacs et des rivières. Grâce à ce dispositif, nous pourrons fournir des données précises, instantanées et accessibles à toute notre équipe, tout en assurant un suivi environnemental amélioré.
 
-## Problèmes rencontrés
-Voir (liste_des_problèmes.txt)
+# Version des fichier fonctionnel pout ce projet
+Codes/CodeV1 ---> Projet_Qualite_Eau.ino
+Impressions3D/Boiter3DV1 ---> .obj          *
+Schématiques/CircuitV1.2 ---> PPS_schematic.sch
+Schématiques/MatricielV1.2 ---> PPS_schematic.brd
 
-## Autres
-https://www.makerfabs.com/maduino-zero-lorawan.html
-Cayenne LPP *
+# Problèmes rencontrés
+Voir liste_des_problèmes.txt
+
+## Références
+Liens d'achat
+- [Maduino Zero LoRaWAN](https://www.makerfabs.com/maduino-zero-lorawan.html)
+- [Capteur de température 1-WIRE hydrofuge]()
+- [Capteur de concentration d’oxygène hydrofuge]()
+- [Résistance de 1K Ohm 1605]()          *
+- [2 piles AA de 1.5V]()
+- [Support pour 2 piles AA]()
+- [Interrupteur marche/arrêt]()
+
+Liens d'information supplémentaire
+- [CayenneLPP](https://github.com/myDevicesIoT/CayenneLPP)
+- [Arduino LoRaWAN Device Library](https://github.com/TheThingsNetwork/arduino-device-lib)
+- [ASR650X AT Command Introduction](https://www.hoperf.com/data/upload/back/20190605/ASR650X%20AT%20Command%20Introduction-20190605.pdf)
+- [Maduino Zero LoRaWAN](https://github.com/Makerfabs/Maduino-Zero-Lorawan/tree/Ra07)
+- [Github chirpstack docker](https://github.com/chirpstack/chirpstack-docker)
+- [Documentation ChirpStack](https://www.chirpstack.io/docs/)
+- [Documentation ThingsBoard](https://thingsboard.io/)
