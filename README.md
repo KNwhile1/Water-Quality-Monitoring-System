@@ -59,7 +59,7 @@ Ce projet vise à révolutionner la manière dont nous mesurons et suivons la qu
 # Problèmes rencontrés
 Voir liste_des_problèmes.txt
 
-## Références
+# Références
 Liens d'achat
 - [Maduino Zero LoRaWAN](https://www.makerfabs.com/maduino-zero-lorawan.html)
 - [Capteur de température 1-WIRE hydrofuge]()
