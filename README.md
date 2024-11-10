@@ -42,7 +42,7 @@ Le dispositif requis est un système de mesure de la qualité de l'eau capable d
 ![Description of the image](download7.png)
 - Un support pour 2 piles AA
 ![Description of the image](download8.png)
-- Un interrupteur marche/arrêt pour contrôler l’alimentation
+- Un interrupteur marche/arrêt pour contrôler l’alimentation          *
 ![Description of the image](download9.png)
 
 *Voir la catégorie **Références** pour les liens d'achat*
