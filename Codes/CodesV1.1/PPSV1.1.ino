@@ -31,9 +31,9 @@ const int maxRetries = 3;             // Nombre maximum de tentatives d'envoi de
 bool ackReceived = false;             // Indicateur pour savoir si un accusé de réception (ACK) a été reçu
 
 // Identifiants LoRaWAN modifiables à remplacer par les vôtres
-String deveui = "b0b9dad0cd1a8168";   // DEVEUI unique de l'appareil
-String appeui = "0000000000000000";   // APPEUI de l'application
-String appkey = "c696f157814277021f37d86a2e1dd3b0";   // APPKEY pour l'authentification
+String deveui = "xxx";   // DEVEUI unique de l'appareil
+String appeui = "yyy";   // APPEUI de l'application
+String appkey = "zzz";   // APPKEY pour l'authentification
 
 // Compteur de données à envoyer via LoRaWAN
 int counter = 0;                      // Valeur du compteur envoyé périodiquement
