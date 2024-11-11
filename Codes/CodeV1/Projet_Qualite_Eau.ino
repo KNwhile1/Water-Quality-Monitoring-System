@@ -19,15 +19,15 @@ const lmic_pinmap lmic_pins = {
 };
 
 // Insert Device EUI here
-static const u1_t PROGMEM DEVEUI[8] = { 0xB0, 0xB9, 0xDA, 0xD0, 0xCD, 0x1A, 0x81, 0x68   };
+static const u1_t PROGMEM DEVEUI[8] = { XXX };
 void os_getDevEui (u1_t* buf) { memcpy_P(buf, DEVEUI, 8);}
 
 // Insert Application EUI here
-static const u1_t PROGMEM APPEUI[8] = { 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00 };
+static const u1_t PROGMEM APPEUI[8] = { YYY };
 void os_getArtEui (u1_t* buf) { memcpy_P(buf, APPEUI, 8);}
 
 // Insert App Key here
-static const u1_t PROGMEM APPKEY[16] = { 0xD7, 0x16, 0x67, 0x8B, 0x17, 0x42, 0x99, 0x5C, 0xFE, 0x58, 0xD0, 0xE6, 0xBD, 0xF3, 0x81, 0x45} ;
+static const u1_t PROGMEM APPKEY[16] = { ZZZ ;
 void os_getDevKey (u1_t* buf) { memcpy_P(buf, APPKEY, 16);}
 
 // Schedule uplink to send every TX_INTERVAL seconds
