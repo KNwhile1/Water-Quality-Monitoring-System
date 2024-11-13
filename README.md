@@ -36,7 +36,7 @@ Le dispositif requis est un système de mesure de la qualité de l'eau capable d
 ![Description of the image](download4.png)
 - Capteur de concentration d’oxygène hydrofuge (5V)
 ![Description of the image](download5.png)
-- Une résistance de 1K Ohm 1206          *
+- Une résistance de 1K Ohm 1206
 ![Description of the image](download6.png)
 - 2 piles AA de 1.5V chacune
 ![Description of the image](download7.png)
@@ -51,10 +51,10 @@ Le dispositif requis est un système de mesure de la qualité de l'eau capable d
 Ce projet vise à révolutionner la manière dont nous mesurons et suivons la qualité de l'eau des lacs et des rivières. Grâce à ce dispositif, nous pourrons fournir des données précises, instantanées et accessibles à toute notre équipe, tout en assurant un suivi environnemental amélioré.
 
 # Version des fichiers fonctionnel pout ce projet
-- Codes/CodeV1.1 ---> PPSV1.1.ino
-- Impressions3D/Boiter3DV1 ---> .obj          *
-- Schématiques/CircuitV1.2 ---> PPS_schematic.sch
-- Schématiques/MatricielV1.2 ---> PPS_schematic.brd
+- Codes/CodeV1.2 ---> PPSV1.2.ino
+- Impressions3D/Boiter3DV1.1 ---> PPSV1.1.obj, PPSV1.1.***           *
+- Schématiques/CircuitV1.3 ---> PPS_schematic.sch
+- Schématiques/MatricielV1.3 ---> PPS_schematic.brd
 
 # Problèmes rencontrés
 Voir liste_des_problèmes.txt
