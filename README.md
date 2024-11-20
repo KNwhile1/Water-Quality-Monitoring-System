@@ -5,12 +5,12 @@ Notre compagnie se spécialise dans la fabrication de dispositifs de mesure pour
 
 Afin de concrétiser cette vision et à la suite de notre engagement envers la santé environnementale, nous avons décidé de développer et de commercialiser ce produit qui remplacera nos procédés actuels.
 
-<img src="download.png" alt="Description of the image" width="300"/>
+<img src="download.png" alt="Description of the image" width="500"/>
 
 ## Besoin général
 Le dispositif requis est un système de mesure de la qualité de l'eau capable de collecter et de transmettre les données concernant la concentration de certains gaz (tels que l'oxygène) et la température de l'eau. Il doit inclure la géolocalisation, le niveau de batterie et l'envoi des données à une plateforme cloud via le réseau LoRaWAN. Les données devront être affichées sur une carte Google Maps.
 
-<img src="download1.png" alt="Description of the image" width="300"/>
+<img src="download1.png" alt="Description of the image" width="500"/>
 
 ## Objectifs
 - Concevoir un dispositif capable de mesurer la qualité de l'eau
@@ -18,7 +18,7 @@ Le dispositif requis est un système de mesure de la qualité de l'eau capable d
 - Afficher les données de qualité de l'eau sur une carte Google Maps en temps réel
 - Fonctions principales
 
-<img src="download2.png" alt="Description of the image" width="300"/>
+<img src="download2.png" alt="Description of the image" width="500"/>
 
 ## Le dispositif peux
 - Mesurer la concentration d’oxygène (O2) dans l’eau
@@ -31,29 +31,29 @@ Le dispositif requis est un système de mesure de la qualité de l'eau capable d
 
 ## Composants nécessaires (représentation visuelle)
 - Maduino Zero LoRaWAN
-<img src="download3.png" alt="Description of the image" width="300"/>
+<img src="download3.png" alt="Description of the image" width="500"/>
 
 - Capteur de température 1-WIRE hydrofuge (5V)
-<img src="download4.png" alt="Description of the image" width="300"/>
+<img src="download4.png" alt="Description of the image" width="500"/>
 
 - Capteur de concentration d’oxygène hydrofuge (5V)
-<img src="download5.png" alt="Description of the image" width="300"/>
+<img src="download5.png" alt="Description of the image" width="500"/>
 
 - Une résistance de 1K Ohm 1206
-<img src="download6.png" alt="Description of the image" width="300"/>
+<img src="download6.png" alt="Description of the image" width="500"/>
 
 - 2 piles AA de 1.5V chacune
-<img src="download7.png" alt="Description of the image" width="300"/>
+<img src="download7.png" alt="Description of the image" width="500"/>
 
 - Un support pour 2 piles AA
-<img src="download8.png" alt="Description of the image" width="300"/>
+<img src="download8.png" alt="Description of the image" width="500"/>
 
 - Un interrupteur marche/arrêt pour contrôler l’alimentation
-<img src="download9.png" alt="Description of the image" width="300"/>
+<img src="download9.png" alt="Description of the image" width="500"/>
 
 - Un Booster de 3v3 à 5V
-<img src="download10.png" alt="Description of the image" width="300"/>
-<img src="download11.png" alt="Description of the image" width="300"/>
+<img src="download10.png" alt="Description of the image" width="500"/>
+<img src="download11.png" alt="Description of the image" width="500"/>
 
 *Voir la catégorie **Liens d'achat** pour les liens d'achat*
 
