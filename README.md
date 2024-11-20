@@ -60,19 +60,22 @@ Le dispositif requis est un système de mesure de la qualité de l'eau capable d
 ## Conclusion
 Ce projet vise à révolutionner la manière dont nous mesurons et suivons la qualité de l'eau des lacs et des rivières. Grâce à ce dispositif, nous pourrons fournir des données précises, instantanées et accessibles à toute notre équipe, tout en assurant un suivi environnemental amélioré.
 
+<img src="download12.png" alt="Description of the image" width="500"/>
+*Voici Représentation de l'assemblage du projet*
+
 # Version des fichiers fonctionnel pout ce projet
-- /Codes/CodeV1.2 ---> **PPSV1.2.ino**
+- /Codes/CodeV1.2 ---> **PPSV1.2.ino***
 - /Impressions3D/Boiter3DV1.1 ---> **PPS_Boitier.stl** et **PPS_CouvercleBoitier.stl**
 - /Schématiques/CircuitV1.3 ---> **PPS_schematic.sch**
 - /Schématiques/MatricielV1.3 ---> **PPS_schematic.brd**
 
 # Problèmes rencontrés
-Voir /Liste_des_problème ---> ***.xlsx
+Voir /Liste_des_problèmes ---> ***.xlsx
 
 # Liens d'achat
 Voir /Liste_des_composants ---> ***.xlsx
 
-Liens d'information supplémentaire
+# Liens d'information supplémentaire
 - [CayenneLPP](https://github.com/myDevicesIoT/CayenneLPP)
 - [Arduino LoRaWAN Device Library](https://github.com/TheThingsNetwork/arduino-device-lib)
 - [ASR650X AT Command Introduction](https://www.hoperf.com/data/upload/back/20190605/ASR650X%20AT%20Command%20Introduction-20190605.pdf)
