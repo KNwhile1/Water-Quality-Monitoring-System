@@ -23,13 +23,13 @@ Le dispositif requis est un système de mesure de la qualité de l'eau capable d
 ## Le dispositif peux
 - Mesurer la concentration d’oxygène (O2) dans l’eau
 - Mesurer la température de l'eau
-- Fournir des données de géolocalisation (latitude et longitude), ainsi que la date et l’heure de la mesure          *
+- Fournir des données de géolocalisation (latitude et longitude), ainsi que la date et l’heure de la mesure
 - Indiquer la tension et le niveau de la batterie
 - Envoyer les données recueillies via le réseau LoRaWAN à une plateforme cloud (ThingsBoard)
 - Mettre à jour les données toutes les 5 minutes
 - Afficher les données collectées sur une carte Google Maps intégrée à la plateforme ThingsBoard
 
-## Composants nécessaires
+## Composants nécessaires (représentation visuelle)
 - Maduino Zero LoRaWAN
 <img src="download3.png" alt="Description of the image" width="300"/>
 - Capteur de température 1-WIRE hydrofuge (5V)
@@ -42,7 +42,7 @@ Le dispositif requis est un système de mesure de la qualité de l'eau capable d
 <img src="download7.png" alt="Description of the image" width="300"/>
 - Un support pour 2 piles AA
 <img src="download8.png" alt="Description of the image" width="300"/>
-- Un interrupteur marche/arrêt pour contrôler l’alimentation          *
+- Un interrupteur marche/arrêt pour contrôler l’alimentation
 <img src="download9.png" alt="Description of the image" width="300"/>
 - Un Booster de 3v3 à 5V
 <img src="download10.png" alt="Description of the image" width="300"/>
@@ -54,23 +54,16 @@ Le dispositif requis est un système de mesure de la qualité de l'eau capable d
 Ce projet vise à révolutionner la manière dont nous mesurons et suivons la qualité de l'eau des lacs et des rivières. Grâce à ce dispositif, nous pourrons fournir des données précises, instantanées et accessibles à toute notre équipe, tout en assurant un suivi environnemental amélioré.
 
 # Version des fichiers fonctionnel pout ce projet
-- Codes/CodeV1.2 ---> PPSV1.2.ino
-- Impressions3D/Boiter3DV1.1 ---> PPSV1.1.obj, PPSV1.1.***           *
-- Schématiques/CircuitV1.3 ---> PPS_schematic.sch
-- Schématiques/MatricielV1.3 ---> PPS_schematic.brd
+- /Codes/CodeV1.2 ---> PPSV1.2.ino
+- /Impressions3D/Boiter3DV1.1 ---> PPS_Boitier.stl et PPS_CouvercleBoitier.stl
+- /Schématiques/CircuitV1.3 ---> PPS_schematic.sch
+- /Schématiques/MatricielV1.3 ---> PPS_schematic.brd
 
 # Problèmes rencontrés
-Voir liste_des_problèmes.txt
+Voir /Liste_des_problème ---> ***.xlsx
 
-# Références
-Liens d'achat
-- [Maduino Zero LoRaWAN](https://www.makerfabs.com/maduino-zero-lorawan.html)
-- [Capteur de température 1-WIRE hydrofuge]()
-- [Capteur de concentration d’oxygène hydrofuge]()
-- [Résistance de 1K Ohm 1605]()          *
-- [2 piles AA de 1.5V]()
-- [Support pour 2 piles AA]()
-- [Interrupteur marche/arrêt]()
+# Liens d'achat
+Voir /Liste_des_composants ---> ***.xlsx
 
 Liens d'information supplémentaire
 - [CayenneLPP](https://github.com/myDevicesIoT/CayenneLPP)
