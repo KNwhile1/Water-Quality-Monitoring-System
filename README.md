@@ -62,7 +62,6 @@ Ce projet vise à révolutionner la manière dont nous mesurons et suivons la qu
 
 <img src="download12.png" alt="Description of the image" width="500"/>
 
-*Voir la catégorie **Liens d'achat** pour les liens d'achat*
 *Voici Représentation de l'assemblage du projet*
 
 # Version des fichiers fonctionnel pout ce projet
