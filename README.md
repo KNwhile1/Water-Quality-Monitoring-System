@@ -44,8 +44,9 @@ Le dispositif requis est un système de mesure de la qualité de l'eau capable d
 <img src="download8.png" alt="Description of the image" width="300"/>
 - Un interrupteur marche/arrêt pour contrôler l’alimentation          *
 <img src="download9.png" alt="Description of the image" width="300"/>
-- Un "Booster" de 3v3 à 5V          *
+- Un Booster de 3v3 à 5V
 <img src="download10.png" alt="Description of the image" width="300"/>
+<img src="download11.png" alt="Description of the image" width="300"/>
 
 *Voir la catégorie **Références** pour les liens d'achat*
 
