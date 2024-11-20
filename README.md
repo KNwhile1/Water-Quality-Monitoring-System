@@ -32,23 +32,30 @@ Le dispositif requis est un système de mesure de la qualité de l'eau capable d
 ## Composants nécessaires (représentation visuelle)
 - Maduino Zero LoRaWAN
 <img src="download3.png" alt="Description of the image" width="300"/>
+
 - Capteur de température 1-WIRE hydrofuge (5V)
 <img src="download4.png" alt="Description of the image" width="300"/>
+
 - Capteur de concentration d’oxygène hydrofuge (5V)
 <img src="download5.png" alt="Description of the image" width="300"/>
+
 - Une résistance de 1K Ohm 1206
 <img src="download6.png" alt="Description of the image" width="300"/>
+
 - 2 piles AA de 1.5V chacune
 <img src="download7.png" alt="Description of the image" width="300"/>
+
 - Un support pour 2 piles AA
 <img src="download8.png" alt="Description of the image" width="300"/>
+
 - Un interrupteur marche/arrêt pour contrôler l’alimentation
 <img src="download9.png" alt="Description of the image" width="300"/>
+
 - Un Booster de 3v3 à 5V
 <img src="download10.png" alt="Description of the image" width="300"/>
 <img src="download11.png" alt="Description of the image" width="300"/>
 
-*Voir la catégorie **Références** pour les liens d'achat*
+*Voir la catégorie **Liens d'achat** pour les liens d'achat*
 
 ## Conclusion
 Ce projet vise à révolutionner la manière dont nous mesurons et suivons la qualité de l'eau des lacs et des rivières. Grâce à ce dispositif, nous pourrons fournir des données précises, instantanées et accessibles à toute notre équipe, tout en assurant un suivi environnemental amélioré.
