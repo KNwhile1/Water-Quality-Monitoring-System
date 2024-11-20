@@ -61,6 +61,8 @@ Le dispositif requis est un système de mesure de la qualité de l'eau capable d
 Ce projet vise à révolutionner la manière dont nous mesurons et suivons la qualité de l'eau des lacs et des rivières. Grâce à ce dispositif, nous pourrons fournir des données précises, instantanées et accessibles à toute notre équipe, tout en assurant un suivi environnemental amélioré.
 
 <img src="download12.png" alt="Description of the image" width="500"/>
+
+*Voir la catégorie **Liens d'achat** pour les liens d'achat*
 *Voici Représentation de l'assemblage du projet*
 
 # Version des fichiers fonctionnel pout ce projet
