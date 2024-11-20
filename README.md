@@ -61,10 +61,10 @@ Le dispositif requis est un système de mesure de la qualité de l'eau capable d
 Ce projet vise à révolutionner la manière dont nous mesurons et suivons la qualité de l'eau des lacs et des rivières. Grâce à ce dispositif, nous pourrons fournir des données précises, instantanées et accessibles à toute notre équipe, tout en assurant un suivi environnemental amélioré.
 
 # Version des fichiers fonctionnel pout ce projet
-- /Codes/CodeV1.2 ---> PPSV1.2.ino
-- /Impressions3D/Boiter3DV1.1 ---> PPS_Boitier.stl et PPS_CouvercleBoitier.stl
-- /Schématiques/CircuitV1.3 ---> PPS_schematic.sch
-- /Schématiques/MatricielV1.3 ---> PPS_schematic.brd
+- /Codes/CodeV1.2 ---> **PPSV1.2.ino**
+- /Impressions3D/Boiter3DV1.1 ---> **PPS_Boitier.stl** et **PPS_CouvercleBoitier.stl**
+- /Schématiques/CircuitV1.3 ---> **PPS_schematic.sch**
+- /Schématiques/MatricielV1.3 ---> **PPS_schematic.brd**
 
 # Problèmes rencontrés
 Voir /Liste_des_problème ---> ***.xlsx
