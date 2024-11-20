@@ -1,5 +1,7 @@
 # Projet-PPS
 
+# Dispositif de mesure de la qualité de l'eau d'un lac ou d'une rivière avec géolocalisation connecté à internet (Cloud)
+
 ## Contexte et origine
 Notre compagnie se spécialise dans la fabrication de dispositifs de mesure pour évaluer la qualité de l'eau des lacs et des rivières. Traditionnellement, nos équipes se déplacent sur des embarcations pour effectuer des relevés sur place et collecter des échantillons destinés à des analyses en laboratoire. Chaque mesure inclut des données sur la date, l'heure, la température, la position géographique, et l'échantillon d'eau, le tout consigné sur support papier. Un employé a eu l'idée novatrice de créer un dispositif qui réaliserait les relevés et l'enregistrement des données automatiquement, sans avoir besoin de notes papier ni d'échantillons. Ce dispositif permettrait de mesurer la qualité de l’eau en temps réel et d’envoyer instantanément les données à nos bases de données pour être visualisées sur une carte Google Maps, offrant ainsi une accessibilité à jour pour tous.
 
@@ -29,7 +31,7 @@ Le dispositif requis est un système de mesure de la qualité de l'eau capable d
 - Mettre à jour les données toutes les 5 minutes
 - Afficher les données collectées sur une carte Google Maps intégrée à la plateforme ThingsBoard
 
-## Composants nécessaires (représentation visuelle)
+## Composants nécessaires (images)
 - Maduino Zero LoRaWAN
 <img src="download3.png" alt="Description of the image" width="500"/>
 
@@ -62,7 +64,7 @@ Ce projet vise à révolutionner la manière dont nous mesurons et suivons la qu
 
 <img src="download12.png" alt="Description of the image" width="500"/>
 
-*Voici Représentation de l'assemblage du projet*
+*Représentation de l'assemblage du projet*
 
 # Version des fichiers fonctionnel pout ce projet
 - /Codes/CodeV1.2 ---> **PPSV1.2.ino***
