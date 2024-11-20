@@ -3,14 +3,14 @@
 # Dispositif de mesure de la qualité de l'eau d'un lac ou d'une rivière avec géolocalisation connecté à internet (Cloud)
 
 ## Contexte et origine
-Notre compagnie se spécialise dans la fabrication de dispositifs de mesure pour évaluer la qualité de l'eau des lacs et des rivières. Traditionnellement, nos équipes se déplacent sur des embarcations pour effectuer des relevés sur place et collecter des échantillons destinés à des analyses en laboratoire. Chaque mesure inclut des données sur la date, l'heure, la température, la position géographique, et l'échantillon d'eau, le tout consigné sur support papier. Un employé a eu l'idée novatrice de créer un dispositif qui réaliserait les relevés et l'enregistrement des données automatiquement, sans avoir besoin de notes papier ni d'échantillons. Ce dispositif permettrait de mesurer la qualité de l’eau en temps réel et d’envoyer instantanément les données à nos bases de données pour être visualisées sur une carte Google Maps, offrant ainsi une accessibilité à jour pour tous.
+Notre entreprise se spécialise dans la fabrication de dispositifs de mesure pour évaluer la qualité de l'eau des lacs et des rivières. Traditionnellement, nos équipes se déplacent sur des embarcations pour effectuer des relevés sur place et collecter des échantillons destinés à des analyses en laboratoire. Chaque mesure inclut des données sur la date, l'heure, la température, la position géographique et l'échantillon d'eau, le tout consigné sur support papier. Un employé a eu l'idée novatrice de créer un dispositif qui réaliserait les relevés et l'enregistrement des données automatiquement, sans avoir besoin de notes papier ni d'échantillons. Ce dispositif permettrait de mesurer la qualité de l’eau en temps réel et d’envoyer instantanément les données à nos bases de données pour être visualisées sur une carte Google Maps, offrant ainsi une accessibilité à jour pour tous.
 
-Afin de concrétiser cette vision et à la suite de notre engagement envers la santé environnementale, nous avons décidé de développer et de commercialiser ce produit qui remplacera nos procédés actuels.
+Afin de concrétiser cette vision et de poursuivre notre engagement envers la santé environnementale, nous avons décidé de développer et de commercialiser ce produit, qui remplacera nos procédés actuels.
 
 <img src="download.png" alt="Description of the image" width="500"/>
 
 ## Besoin général
-Le dispositif requis est un système de mesure de la qualité de l'eau capable de collecter et de transmettre les données concernant la concentration de certains gaz (tels que l'oxygène) et la température de l'eau. Il doit inclure la géolocalisation, le niveau de batterie et l'envoi des données à une plateforme cloud via le réseau LoRaWAN. Les données devront être affichées sur une carte Google Maps.
+Le dispositif requis est un système de mesure de la qualité de l'eau capable de collecter et de transmettre des données concernant la concentration de certains gaz (tels que l'oxygène) et la température de l'eau. Il doit inclure la géolocalisation, le niveau de batterie, ainsi que l'envoi des données à une plateforme cloud via le réseau LoRaWAN. Les données devront être affichées sur une carte Google Maps.
 
 <img src="download1.png" alt="Description of the image" width="500"/>
 
@@ -57,7 +57,7 @@ Le dispositif requis est un système de mesure de la qualité de l'eau capable d
 <img src="download10.png" alt="Description of the image" width="500"/>
 <img src="download11.png" alt="Description of the image" width="500"/>
 
-*Voir la catégorie **Liens d'achat** pour les liens d'achat*
+*Voir la catégorie **Liens d'achat de ce projet** pour les liens d'achat*
 
 ## Conclusion
 Ce projet vise à révolutionner la manière dont nous mesurons et suivons la qualité de l'eau des lacs et des rivières. Grâce à ce dispositif, nous pourrons fournir des données précises, instantanées et accessibles à toute notre équipe, tout en assurant un suivi environnemental amélioré.
@@ -75,7 +75,7 @@ Ce projet vise à révolutionner la manière dont nous mesurons et suivons la qu
 # Problèmes rencontrés
 Voir /Liste_des_problèmes ---> ***.xlsx
 
-# Liens d'achat
+# Liens d'achat de ce projet
 Voir /Liste_des_composants ---> ***.xlsx
 
 # Liens d'information supplémentaire
