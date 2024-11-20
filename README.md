@@ -73,7 +73,7 @@ Ce projet vise à révolutionner la manière dont nous mesurons et suivons la qu
 - /Schématiques/MatricielV1.3 ---> **PPS_schematic.brd**
 
 # Problèmes rencontrés
-Voir /Liste_des_problèmes ---> ***.xlsx
+Voir /Liste_des_problèmes ---> Liste des problèmes, solutions et choix.xlsx
 
 # Liens d'achat de ce projet
 Voir /Liste_des_composants ---> ***.xlsx
