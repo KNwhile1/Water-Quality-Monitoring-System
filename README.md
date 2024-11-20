@@ -31,7 +31,7 @@ Le dispositif requis est un système de mesure de la qualité de l'eau capable d
 
 ## Composants nécessaires
 - Maduino Zero LoRaWAN
-![Description of the image](download3.png|width=10)
+<img src="download3.png" alt="Description of the image" width="300"/>
 - Capteur de température 1-WIRE hydrofuge (5V)
 ![Description of the image](download4.png|width=10)
 - Capteur de concentration d’oxygène hydrofuge (5V)
