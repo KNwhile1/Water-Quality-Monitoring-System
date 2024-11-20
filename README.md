@@ -73,10 +73,10 @@ Ce projet vise à révolutionner la manière dont nous mesurons et suivons la qu
 - /Schématiques/MatricielV1.3 ---> **PPS_schematic.brd**
 
 # Problèmes rencontrés
-Voir /Liste_des_problèmes ---> Liste des problèmes, solutions et choix.xlsx
+Voir /Liste_des_problèmes ---> Liste_problemes_PPS.xlsx
 
 # Liens d'achat de ce projet
-Voir /Liste_des_composants ---> ***.xlsx
+Voir /Liste_des_composants ---> Liste_composants_PPS.xlsx
 
 # Liens d'information supplémentaire
 - [CayenneLPP](https://github.com/myDevicesIoT/CayenneLPP)
