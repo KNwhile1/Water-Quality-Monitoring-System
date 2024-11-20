@@ -33,19 +33,19 @@ Le dispositif requis est un système de mesure de la qualité de l'eau capable d
 - Maduino Zero LoRaWAN
 <img src="download3.png" alt="Description of the image" width="300"/>
 - Capteur de température 1-WIRE hydrofuge (5V)
-![Description of the image](download4.png|width=10)
+<img src="download4.png" alt="Description of the image" width="300"/>
 - Capteur de concentration d’oxygène hydrofuge (5V)
-![Description of the image](download5.png|width=10)
+<img src="download5.png" alt="Description of the image" width="300"/>
 - Une résistance de 1K Ohm 1206
-![Description of the image](download6.png|width=10)
+<img src="download6.png" alt="Description of the image" width="300"/>
 - 2 piles AA de 1.5V chacune
-![Description of the image](download7.png|width=10)
+<img src="download7.png" alt="Description of the image" width="300"/>
 - Un support pour 2 piles AA
-![Description of the image](download8.png|width=10)
+<img src="download8.png" alt="Description of the image" width="300"/>
 - Un interrupteur marche/arrêt pour contrôler l’alimentation          *
-![Description of the image](download9.png|width=10)
+<img src="download9.png" alt="Description of the image" width="300"/>
 - Un "Booster" de 3v3 à 5V          *
-![Description of the image](download10.png|width=10)
+<img src="download10.png" alt="Description of the image" width="300"/>
 
 *Voir la catégorie **Références** pour les liens d'achat*
 
