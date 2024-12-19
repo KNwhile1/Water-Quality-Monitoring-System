@@ -67,7 +67,7 @@ Ce projet vise à révolutionner la manière dont nous mesurons et suivons la qu
 *Représentation de l'assemblage du projet*
 
 # Version des fichiers fonctionnel pout ce projet
-- /Codes/CodeV1.2 ---> **PPSV1.2.ino**
+- /Codes/CodeV1.2 ---> **CodeV1.3.ino**
 - /Impressions3D/Boiter3DV1.1 ---> **PPS_Boitier.stl** et **PPS_CouvercleBoitier.stl**
 - /Schématiques/CircuitV1.3 ---> **PPS_schematic.sch**
 - /Schématiques/MatricielV1.3 ---> **PPS_schematic.brd**
